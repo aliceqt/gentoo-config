@@ -1,2 +1,2 @@
-# portage-config
-this will contain everything in /etc/portage ... perhaps i should keep this private
+# gentoo-config
+this will contain everything in /etc/portage and my iwd config... EXCEPT for gnupg haha
