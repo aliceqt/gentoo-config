@@ -1,2 +1,2 @@
 # portage-config
-my gentoo setup YEAHHHHHHHHHHHHHHHHHHHHHH
+this will contain everything in /etc/portage ... perhaps i should keep this private
